@@ -2,3 +2,5 @@ venv/
 __pycache__/
 *.pyc
 .env
+chromedriver-mac-arm64/
+.DS_Store
